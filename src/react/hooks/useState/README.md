@@ -16,7 +16,7 @@ The `Counter.jsx` component shows:
 - Multiple state variables interaction
 
 ## Video Tutorial
-Watch the full explanation: [YouTube Link]
+Watch the full explanation: [YouTube Link](https://youtu.be/rRrk4m5rYoE)
 
 ## Running this Example
 ```bash
